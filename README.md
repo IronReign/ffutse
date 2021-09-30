@@ -149,20 +149,21 @@ The Standard itself is extremely simple and consists **only** of the following:
 
 All of the other resources published here are simply **quick-starts for teams**, but they include:
 
-A reference flat pattern available as PDF and SVG
+<a href="#flatpat">A reference flat pattern available as PDF, SVG and DWG</a>
 
-A reference 3D model available as STL, STEP and F3D
+<a href="#threed">A reference 3D model available as STL, STEP and F3D</a>
 
-Materials Options
+<a href="#materials">Materials Options</a>
 
-Design variations for easier gripping
+<a href="#grips">Design variations for easier gripping</a>
 
-Design variation for embedded magnets
+<a href="#magnets">Design variation for embedded magnets</a>
 
-Construction Procedures
+<a href="#makeflat"> Flat Pattern Construction Procedures</a>
 
-3D printing Procedures
+<a href="#threednotes">3D printing Notes</a>
 
+<br>(<a href="#">Back to top</a>)
 
 ### Release Candidate Simple Flat Pattern
 
@@ -182,6 +183,7 @@ Note: we assumed an overlap/seam tab on only one side would create a weight imba
 * Many other thin forms of plastic thin sheets are usable but may be harder to find. We do not recommend acrylic/plexiglass.
 * 3D Printable - just about any low friction filament should work fine. Teams that can 3D print may be able to better tune desired flexibility vs. rigidity. 3D printed versions should not have noticeable seams.
 
+<br>(<a href="#">Back to top</a>)
 
 ### Optional Gripper Notches
 
@@ -205,6 +207,7 @@ At that height a 15mm extrusion with foam rubber cushions could grab all three f
 
 Todo: photo of modified cone in simple gripper
 
+<br>(<a href="#">Back to top</a>)
 
 ### Optional Magnetic Mods
 
@@ -226,6 +229,7 @@ Q. How do I know which side of the magnets are North? Who has a compass these da
 
 A. You should have a compass. It’s cool. Your phone probably has one. But you can make your own compass and **Let the Earth tell you**. Take a stack of magnets (you should have at least 5) and rest them in a little boat. You can make the boat from some aluminum foil, a cut plastic spoon, magnets taped to some bubble wrap or foam and place it in a bowl of water that’s not near any other magnets or ferrous metals. The stack will point North - you can figure out North from a street map. The face of the magnet closest to North is considered the North (seeking)  pole of the magnet. (and yes that actually means the North pole on the earth is where the Earth’s field is actually South magnetically) 
 
+<br>(<a href="#">Back to top</a>)
 
 ### Flat Pattern Assembly Procedure
 
@@ -288,9 +292,11 @@ Tabs spot-welded into place with a hand held soldering iron
 
 Completed cone with permanent marker team number
 
+<br>(<a href="#">Back to top</a>)
 
 ### 3D Printable Version Recommendations
 
+<br>(<a href="#">Back to top</a>)
 
 ### Rules Reference as of V1.0 Release
 
@@ -300,6 +306,7 @@ inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring E
 
 cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm)
 
+<br>(<a href="#">Back to top</a>)
 
 ### 
 
