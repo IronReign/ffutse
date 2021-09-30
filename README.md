@@ -48,7 +48,7 @@ With the **highest goal being easy and stable double stacking** - let’s join t
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![Hero shot of the FFUTSE reference cone](images/glossyGreen.png "Don't make it glossy if you want to do vision-based detection")
 
 
 **Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
