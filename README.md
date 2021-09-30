@@ -1,61 +1,29 @@
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 16.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-## #FFUTSE - a Freight Frenzy Universal Team Shipping Element
+# Playing #FFUTSE - a Freight Frenzy Universal Team Shipping Element
 
 An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
 
+<p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>
 
+<p align="center"><img alt="aa" src="images/aa" title="aa"/></p>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![Hero shot of the FFUTSE reference cone](images/glossyGreen.PNG "Don't make it glossy if you want to do vision-based detection")
-
-
-
-### Standards - It’s not rocket science
+## Standards - It’s not rocket science
 
 Many teams will conclude that a cone is the best choice for their team shipping element. But not all cones are equal. It is possible to arrive at a combination of legal designs that are less stable and can be disrupted by shifting/tilting shipping hubs.
 
-With the **highest goal being easy and stable double stacking** - let’s join together and adopt a common but flexible design that will increase the chances of success for all participating teams. This is just a standardizing effort like many technical industries adopt when trying to maximize compatibility. It does not prevent teams from also using more unique designs when they are the only team stacking on a given alliance. **It is fully in the spirit of [Coopertition](https://www.firstinspires.org/about/vision-and-mission#:~:text=Coopertition%20is%20founded%20on%20the,Coopertition%20involves%20learning%20from%20teammates.&text=Coopertition%20means%20competing%20always%2C%20but,enabling%20others%20when%20you%20can.)**.
+With the **highest goal being easy and stable double stacking** - let’s join together and adopt a common but flexible design that will increase the chances of success for all participating teams. This is just a standardizing effort like many technical industries adopt when trying to maximize compatibility. It does not prevent teams from also using more unique designs when they are the only team stacking on a given alliance. We are not subverting the Game Design Committee's challenge, but responding to it in a unified and inclusive way. **It is fully in the spirit of [Coopertition](https://www.firstinspires.org/about/vision-and-mission#:~:text=Coopertition%20is%20founded%20on%20the,Coopertition%20involves%20learning%20from%20teammates.&text=Coopertition%20means%20competing%20always%2C%20but,enabling%20others%20when%20you%20can.)**.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![Hero shot of the FFUTSE reference cone](images/glossyGreen.png "Don't make it glossy if you want to do vision-based detection")
-
+<p align="center">
+![Unstable cone stack](images/weakstack.png "Wobble Sus")
+<img alt="Unstable cone stack" src="images/weakstack.png" title="Wobble Sus"/>
+</p>
+<img alt="aa" src="images/aa" title="aa"/>
 
 **Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
 
 
-### Design Requirements
-
+## <span id="designrequirements"> Design Requirements</span>
 
 
 * FFUTSE meets the official sizing and materials requirements - duh!
@@ -81,98 +49,94 @@ With the **highest goal being easy and stable double stacking** - let’s join t
 
 Simple open-top cones in a variety of aspect ratios were tested:
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+<p align="center">
+![three different cones](images/3cones.png "sus")
+</p>
 
 Taller elements will be more stable on the pole because the center of mass is further below the point of support. But when too tall, the element might illegally rest on a single layer of freight:
 
+<p align="center">
+![Cone resting on Cargo](images/restingOnCargo_s.png "no no no - will invalidate your points and points for any cone resting on top")
+</p>
+
+The squat cone combines the maximum allowed bottom opening size with the minimum allowed height and an open top. This was the first paper-based test and it proved to be a good candidate for the final geometry.
+
+<p align="center">
+![picture of a short and wide cone](images/squatcone.png "just call me stubby")
+</p>
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+## Testing - We’ve done a good amount of testing - more to come
 
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
-
-
-
-### Testing - We’ve done a good amount of testing - more to come
-
-
-
-* Multiple candidate designs were tested against all of the listed Design Requirements
-* Anecdotally - the squat design works well. It’s got the largest safe opening for sloppy positioning and at just above the minimum height it clears a layer of freight on the top shipping hub level and still has a low enough CG to be very stable. So those the design/dimensions of the release candidate.
+* Multiple candidate designs were tested against all of the listed <a href="#designrequirements">Design Requirements</a>
+* The squat design works well. It’s got the largest safe opening for sloppy positioning and at just above the minimum height it clears a layer of freight on the top shipping hub level and still has a low enough CG to be very stable. So those the design/dimensions of the release candidate.
 * Drop from height test - the open hole plus magnet ballast - this helps prevent the cone from inverting like a shuttlecock. We’ve observed consistent drops from heights well above reasonable conditions and well built FFUTSEs do not rotate or drift.
 * Offset drop test - how far aside from center can we drop one onto the pole and each other. If the edge of a cone hits the top of the post encompassing the center point, it’s still likely to fall into place.
 * Sliding drop test - drop a cone with forward speed - not been done on a robot yet
 * Pulling onto pole with magnets - this works quite well, though it’s only been tested with hand-held magnet rods so far.
 
 
-### Here’s how you can help
+## Here’s how you can help
+
+1. Formally adopt the FFUTSE Standard - add your team as a signatory to the Standard. You’ll get the FFUTSE seal that you can print and place on your robot. If you heard about it from an Iron Reign posting, please credit Team 6832 for the referral.
+2. Early Adopters sign on to the Standard before the V1.0 official release. You'll be placed on the Early Adopter tier. 
+3. Share the standard with other teams you are in contact with. Ask them to mention your team as a referral when they sign op. If you get 3 or more teams to adopt the standard your team will be elevated to the Promoters tier. BE the team that hands out free samples of cone material and maybe even magnets at your next scrimmage or meet. You'll gain even more Outreach cred.
+4. Replicate and extend testing, then publish your results tagged as #FFUTSE, then let us know and we’ll help link to your testing. Teams that publically share substantial testing will be recognized on the Certifiers tier.
+<p align="center">
+![graphic showing tiers of participation](images/participationTiers.png "Level up y'all!!!!!")
+</p>
+5. If you discover any concerns with the Standard or recommendations for improvement, open an issue here on the repo. 
+6. Share your participation in this project with Judges to get credit for your Outreach.
+7. Just for fun, take a stab at the #FFUTSEDropHeightChallenge. Post a video of your team dropping two FFUTSE cones from your maximum height onto an Alliance Shipping Hub pipe (or analog) into a successfully Capped orientation. The video must be continuous - no editing - and less than 30 seconds. You'll need two cones to show successful stacking. It's cool because you'll want a spare anyhow. PLEASE USE COMMON SENSE AND BE SAFE. NO CRAZY LADDER STUFF.
 
 
-
-1. Replicate and extend testing, then publish your results tagged as #FFUTSE, then let us know and we’ll help link to your testing. Teams that share substantial testing will be recognized here.
-2. Formally adopt the FFUTSE Standard - add your team as a signatory to the standard. You’ll get the FFUTSE seal that you can print and place on your robot.
-3. Share the standard with other teams you are in contact with. Ask them to mention your team as a referral when they sign up.
-4. If you discover any concerns with the Standard or recommendations for improvement, open an issue here on the repo. 
-
-
-### What’s included in the Standard?
+## What’s included in the Standard?
 
 The Standard itself is extremely simple and consists **only** of the following:
 
+* **The geometry of the cone.** To be considered compliant with the standard, the angle of a cone should be 70.8 +/- 2 degrees with a bottom opening of ~3⅞” (98mm) diameter and a top opening of ~1” (25mm) diameter and a height of ~4⅛” (105mm)  
 
+![diagram of dimensioned cone previously described](images/simpleGeometry.png "it's a piece of cake")
 
-* **The geometry of the cone.** To be considered compliant with the standard, the angle of a cone should be 70.8 +/- 2 degrees with a bottom opening of ~3⅞” (98mm) diameter and a top opening of ~1” (25mm) diameter and a height of ~4⅛” (105mm)  \
+* The patterned placement and field orientation of optional magnets is part of the standard.
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
 
 * Any variations that nest snuggly either on top of or as a base for the reference geometry cone will be considered compliant.
 * Teams that adopt the standard but choose to create a variant will agree to also create at least one simple standard cone for testing of nesting.
 
+**<span id="resources">Resources</span> 
 All of the other resources published here are simply **quick-starts for teams**, but they include:
 
 <a href="#flatpat">A reference flat pattern available as PDF, SVG and DWG</a>
 
 <a href="#threed">A reference 3D model available as STL, STEP and F3D</a>
 
-<a href="#materials">Materials Options</a>
+<a href="#materials">Material Options</a>
 
 <a href="#grips">Design variations for easier gripping</a>
 
 <a href="#magnets">Design variation for embedded magnets</a>
 
-<a href="#makeflat"> Flat Pattern Construction Procedures</a>
+<a href="#makeflat"> Flat Pattern Construction Procedure</a>
 
-<a href="#threednotes">3D printing Notes</a>
+<a href="#threednotes">3D Printing Notes</a>
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### Release Candidate Simple Flat Pattern
+## <span id="flatpat">Release Candidate Simple Flat Pattern</span>
 
-Note: we assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single seam pattern.
+Note: we assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
 
+<br>(<a href="#resources">Back to Resources</a>)
+<br>(<a href="#">Back to top</a>)
 
-### Material Options:	
+## <span id="threed"> 3D Model Files</span>
 
+<br>(<a href="#resources">Back to Resources</a>)
+<br>(<a href="#">Back to top</a>)
 
+## <span id="materials">Material Options</span>	
 
 * Paper: way too delicate - only for prototyping
 * Card Stock (file folders) - cheap, easy to get, less durable - would recommend bringing spares to tournaments. Easy to tape or glue together.
@@ -183,9 +147,10 @@ Note: we assumed an overlap/seam tab on only one side would create a weight imba
 * Many other thin forms of plastic thin sheets are usable but may be harder to find. We do not recommend acrylic/plexiglass.
 * 3D Printable - just about any low friction filament should work fine. Teams that can 3D print may be able to better tune desired flexibility vs. rigidity. 3D printed versions should not have noticeable seams.
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### Optional Gripper Notches
+## <span id="grips">Optional Gripper Notches</span>
 
 We do not prescribe a specific gripper or intake mechanism. But we recognize that controlling a smooth cone may offer numerous challenges and teams need options.
 
@@ -207,13 +172,12 @@ At that height a 15mm extrusion with foam rubber cushions could grab all three f
 
 Todo: photo of modified cone in simple gripper
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### Optional Magnetic Mods
+## <span id="magnets"> Optional Magnetic Mods </span>
 
-We recommend 4 of [these 6x2mm neodymium magnets](https://www.amazon.com/FINDMAG-Refrigerator-Magnets-Premium-Whiteboard/dp/B075RZ82HP/ref=sr_1_3?crid=3RBBYF4ICIRYJ&dchild=1&keywords=small+neodymium+magnet+2mm&qid=1632689824&sprefix=small+neodymium+magnet%2Caps%2C183&sr=8-3) spaced evening around the base. Anything larger will likely be too strong, though it will depend on your material choice and thickness.
-
-
+We recommend 4 of [these kinds of 6x2mm neodymium magnets](https://www.amazon.com/FINDMAG-Refrigerator-Magnets-Premium-Whiteboard/dp/B075RZ82HP/ref=sr_1_3?crid=3RBBYF4ICIRYJ&dchild=1&keywords=small+neodymium+magnet+2mm&qid=1632689824&sprefix=small+neodymium+magnet%2Caps%2C183&sr=8-3) spaced evening around the base. Anything larger will likely be too strong, though it will depend on your material choice and thickness.
 
 * Lowers the center of gravity and increases stability
 * When a cone is knocked over one magnet will still be fairly easy reach as a way to grab and control the cone
@@ -229,10 +193,10 @@ Q. How do I know which side of the magnets are North? Who has a compass these da
 
 A. You should have a compass. It’s cool. Your phone probably has one. But you can make your own compass and **Let the Earth tell you**. Take a stack of magnets (you should have at least 5) and rest them in a little boat. You can make the boat from some aluminum foil, a cut plastic spoon, magnets taped to some bubble wrap or foam and place it in a bowl of water that’s not near any other magnets or ferrous metals. The stack will point North - you can figure out North from a street map. The face of the magnet closest to North is considered the North (seeking)  pole of the magnet. (and yes that actually means the North pole on the earth is where the Earth’s field is actually South magnetically) 
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### Flat Pattern Assembly Procedure
-
+## <span id="makeflat"> Flat Pattern Construction Procedure</span>
 
 
 1. Print the pattern(s) on regular paper or cardstock
@@ -292,59 +256,34 @@ Tabs spot-welded into place with a hand held soldering iron
 
 Completed cone with permanent marker team number
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### 3D Printable Version Recommendations
+## <span id="threednotes">3D Printable Version Notes</span>
 
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
-### Rules Reference as of V1.0 Release
+## Rules Reference as of Current FFUTSE Release
 
-&lt;TE02> Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4
+The following rules are a subset of rules related to this Standard. This is not a complete listing of TSE rules. Refer to the official game manuals.
+
+4.5.4.4 Capping – For each Team Shipping Element that is fully Supported by the center pole above Level #3
+of their Alliance Shipping Hub or by another Capped Team Shipping Element, an Alliance earns fifteen
+(15) points. 
+
+&lt;TE02> GM1 Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4
 
 inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring Element is 3 inches (7.62
 
 cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm)
 
+<GS4>c Robots may not Control their opposing Alliance’s Team Shipping Elements. Each violation of this rule
+results in a Major Penalty. (noted here in case you use a magnetic fishing strategy - be sure to keep your capture magnets away from opposing alliance FFUTSEs that could be knocked across the field)
+
+<GS8> Control/Possession Limits of Scoring Elements - Robots may Control or Possess a maximum of
+one (1) Freight and one (1) Team Shipping Element at a time. (you can carry it around during a match)
+
+<br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
-
-### 
-
-
-### Project Archive
-
-This section is where we move old content when new content replaces it. This is just for internal reference of how the FFUTSE progressed and will be removed on official release.
-
-For initial testing we’ve been using the cone pattern generator here: [https://www.blocklayer.com/cone-patternseng.aspx](https://www.blocklayer.com/cone-patternseng.aspx)
-
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
-
-
-
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
-
-
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
-
-
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.jpg "image_tooltip")
 
