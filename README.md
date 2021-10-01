@@ -93,7 +93,7 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 
 The Standard itself is extremely simple and consists **only** of the following:
 
-* **The geometry of the cone.** To be considered compliant with the standard, the angle of a cone should be 70.8 +/- 2 degrees with a bottom opening of ~3⅞” (98mm) diameter and a top opening of ~1” (25mm) diameter and a height of ~4⅛” (105mm)  
+* **The geometry of the cone.** To be considered compliant with the standard, the angle of a cone should be 70.8 +/- 2 degrees with a bottom opening of ~3⅞” (98mm) diameter and a top opening of ~1” (25mm) diameter and a height of ~4⅛” (105mm). Those are the **exterior dimensions**. You have some wiggle room with the interior dimensions but your cone needs to stack on the reference cone closely and snuggly.  
 
 <p align="center"><img width="25%" alt="diagram of dimensioned cone previously described" src="images/simpleGeometry.png" title="it's a piece of cake"/></p>
 
@@ -129,14 +129,16 @@ Note: we firt assumed an overlap/seam tab on only one side would create a weight
 
 <p align="center"><img width="50%"  alt="photo of flat pattern" src="images/FFUTSE_Flat_Pattern_RC1_s.png" title="Now I lay me down to cut?"/></p>
 
-### <a href="images/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a>
+### <a href="resources/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a>
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
 ## <span id="threed"> 3D Model Files</span>
 
-Any day now!
+<p align="center"><img width="50%"  alt="cone STL render" src="images/FFUTSE_Reference_Cone.png" title="Loftly evenin, in't?"/></p>
+
+### <a href="resources/FFUTSE_Reference_Cone1mmWall_RC1.stl">Download the Reference Model</a>
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
