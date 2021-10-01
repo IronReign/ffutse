@@ -5,8 +5,6 @@ An open source Collaborative Team Shipping Element - this is an open specificati
 
 <p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>
 
-<p align="center"><img alt="aa" src="images/aa" title="aa"/></p>
-
 ## Standards - It’s not rocket science
 
 Many teams will conclude that a cone is the best choice for their team shipping element. But not all cones are equal. It is possible to arrive at a combination of legal designs that are less stable and can be disrupted by shifting/tilting shipping hubs.
@@ -15,10 +13,9 @@ With the **highest goal being easy and stable double stacking** - let’s join t
 
 
 <p align="center">
-![Unstable cone stack](images/weakstack.png "Wobble Sus")
-<img alt="Unstable cone stack" src="images/weakstack.png" title="Wobble Sus"/>
+<img  width="50%" alt="Unstable cone stack" src="images/weakstack.png" title="Wobble Sus"/>
 </p>
-<img alt="aa" src="images/aa" title="aa"/>
+
 
 **Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
 
@@ -50,7 +47,7 @@ With the **highest goal being easy and stable double stacking** - let’s join t
 Simple open-top cones in a variety of aspect ratios were tested:
 
 <p align="center">
-![three different cones](images/3cones.png "sus")
+<img width="50%" alt="three different cones" src="images/3cones.png" title="sus"/>
 </p>
 
 Taller elements will be more stable on the pole because the center of mass is further below the point of support. But when too tall, the element might illegally rest on a single layer of freight:
@@ -62,7 +59,7 @@ Taller elements will be more stable on the pole because the center of mass is fu
 The squat cone combines the maximum allowed bottom opening size with the minimum allowed height and an open top. This was the first paper-based test and it proved to be a good candidate for the final geometry.
 
 <p align="center">
-![picture of a short and wide cone](images/squatcone.png "just call me stubby")
+<img  width="50%" alt="picture of a short and wide cone" src="images/squatcone.png " title="just call me stubby"/>
 </p>
 
 
@@ -83,7 +80,7 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 3. Share the standard with other teams you are in contact with. Ask them to mention your team as a referral when they sign op. If you get 3 or more teams to adopt the standard your team will be elevated to the Promoters tier. BE the team that hands out free samples of cone material and maybe even magnets at your next scrimmage or meet. You'll gain even more Outreach cred.
 4. Replicate and extend testing, then publish your results tagged as #FFUTSE, then let us know and we’ll help link to your testing. Teams that publically share substantial testing will be recognized on the Certifiers tier.
 <p align="center">
-![graphic showing tiers of participation](images/participationTiers.png "Level up y'all!!!!!")
+<img width="50%" alt="graphic showing tiers of participation" src="images/FFUTSE_levels.png" title="Level up y'all!!!!!"/>
 </p>
 5. If you discover any concerns with the Standard or recommendations for improvement, open an issue here on the repo. 
 6. Share your participation in this project with Judges to get credit for your Outreach.
@@ -96,7 +93,7 @@ The Standard itself is extremely simple and consists **only** of the following:
 
 * **The geometry of the cone.** To be considered compliant with the standard, the angle of a cone should be 70.8 +/- 2 degrees with a bottom opening of ~3⅞” (98mm) diameter and a top opening of ~1” (25mm) diameter and a height of ~4⅛” (105mm)  
 
-![diagram of dimensioned cone previously described](images/simpleGeometry.png "it's a piece of cake")
+<p align="center"><img width="25%" alt="diagram of dimensioned cone previously described" src="images/simpleGeometry.png" title="it's a piece of cake"/></p>
 
 * The patterned placement and field orientation of optional magnets is part of the standard.
 
@@ -104,7 +101,7 @@ The Standard itself is extremely simple and consists **only** of the following:
 * Any variations that nest snuggly either on top of or as a base for the reference geometry cone will be considered compliant.
 * Teams that adopt the standard but choose to create a variant will agree to also create at least one simple standard cone for testing of nesting.
 
-**<span id="resources">Resources</span> 
+## <span id="resources">Resources</span> 
 All of the other resources published here are simply **quick-starts for teams**, but they include:
 
 <a href="#flatpat">A reference flat pattern available as PDF, SVG and DWG</a>
@@ -126,12 +123,18 @@ All of the other resources published here are simply **quick-starts for teams**,
 
 ## <span id="flatpat">Release Candidate Simple Flat Pattern</span>
 
-Note: we assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
+Note: we firt assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
+
+<p align="center"><img width="50%"  alt="photo of flat pattern" src="images/FFUTSE_Flat_Pattern_RC1_s.png" title="Now I lay me down to cut?"/></p>
+
+### <a href="images/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a>
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
 ## <span id="threed"> 3D Model Files</span>
+
+Any day now!
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
@@ -159,17 +162,14 @@ The first option is to grasp a cone through the hole in the top. All of the vari
 Consider a minimum viable pincer gripper made out of commonly available REV 15mm extrusions. With such a gripper it would be helpful to have vertical faces or at least edges. The most standard height above the field for such a gripper might be the midline (equator) of a Cargo element which is 36mm to the center:
 
  
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.jpg "image_tooltip")
+<p align="center"><img alt="grippable freight" src="images/freightfront.png" title="get a grip"/></p>
 
 
 Todo: overlay dimensions on above photo
 
 At that height a 15mm extrusion with foam rubber cushions could grab all three freight elements including Ducks (by the head). It’s also possible to adapt the FFUTSE to be retrievable by such a gripper.
 
+<p align="center"><img alt="gripped cone" src="images/grippedcone.png" title="take me"/></p>
 Todo: photo of modified cone in simple gripper
 
 <br>(<a href="#resources">Back to Resources</a>)
@@ -209,52 +209,19 @@ A. You should have a compass. It’s cool. Your phone probably has one. But you 
 8. Add Team number
 
 
+This example is constructed of the HDPE sheets sold by Amazon Basics as binder dividers. It comes in many colors, we are using unlikely color choices for initial testing. Deep red would not contrast well with tiles in a color or shape based visual detector. So this cone is for testing shape, dynamics, welding and durability. This one has both gripper notches and magnets - likely it's better to choose just one of those options.
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p align="center"><img width="50%" alt="Earlier pattern and resulting cut HDPE sheet" src="images/HDPEpattern.png" title="Cut Me"/></p>
 
+Bending tabs and placing magnets:
+<p align="center"><img width="50%" alt="bending tabs and placing magnets" src="images/magnetPocketPrep.png" title="bend over"/></p>
 
-![alt_text](images/image8.png "image_tooltip")
+It Welds! Tabs are spot-welded into place with a hand held soldering iron:
+<p align="center"><img width="50%" alt="magnet tabs spot welded" src="images/magnetPocketsWelded.png" title="stick it to me baby!"/></p>
 
+Completed cone with permanent marker team number:
+<p align="center"><img width="50%" alt="completed cone" src="images/HDPEcone.png" title="Would you believe she stood me up?"/></p>
 
-
-
-This example is constructed of the HDPE sheets sold by Amazon Basics as binder dividers. It comes in many colors, we are using unlikely color choices for initial testing. Deep red would not contrast well with tiles in a color or shape based visual detector. So this is for testing shape, dynamics and welding,
-
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
-
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.jpg "image_tooltip")
-
-
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.jpg "image_tooltip")
-
-
-Tabs spot-welded into place with a hand held soldering iron
-
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.jpg "image_tooltip")
-
-
-Completed cone with permanent marker team number
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
