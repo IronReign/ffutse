@@ -40,9 +40,9 @@ With the **highest goal being easy and stable double stacking** - let’s join t
     * Color based visual detection example
     * A Tensor-flow model for V1.1 release
 * Official variants include:
-    * Pockets for optional neodymium magnets - standardizing on 5x2mm
+    * Pockets for optional neodymium magnets - standardizing on 6x2mm
     * Slot for 15 mm REV extrusion minimum viable gripper at common height
-    * Slot for plate-based gripper
+    * Smaller slot for plate-based gripper
 
 Simple open-top cones in a variety of aspect ratios were tested:
 
@@ -75,7 +75,7 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 
 ## Here’s how you can help
 
-1. Formally adopt the FFUTSE Standard - add your team as a signatory to the Standard. You’ll get the FFUTSE seal that you can print and place on your robot. If you heard about it from an Iron Reign posting, please credit Team 6832 for the referral.
+1. Formally adopt the FFUTSE Standard - <a href="https://forms.gle/p9eFSkRrV8eZk7JB8">add your team as a signatory to the Standard</a>. You’ll get the FFUTSE seal that you can print and place on your robot. If you heard about it from an Iron Reign posting, please credit Team 6832 for the referral.
 2. Early Adopters sign on to the Standard before the V1.0 official release. You'll be placed on the Early Adopter tier. 
 3. Share the standard with other teams you are in contact with. Ask them to mention your team as a referral when they sign op. If you get 3 or more teams to adopt the standard your team will be elevated to the Promoters tier. BE the team that hands out free samples of cone material and maybe even magnets at your next scrimmage or meet. You'll gain even more Outreach cred.
 4. Replicate and extend testing, then publish your results tagged as #FFUTSE, then let us know and we’ll help link to your testing. Teams that publically share substantial testing will be recognized on the Certifiers tier.
@@ -144,10 +144,9 @@ Any day now!
 ## <span id="materials">Material Options</span>	
 
 * Paper: way too delicate - only for prototyping
-* Card Stock (file folders) - cheap, easy to get, less durable - would recommend bringing spares to tournaments. Easy to tape or glue together.
+* Card Stock (file folders) - cheap, easy to get, semi-durable - would recommend bringing spares to tournaments. Easy to tape or glue together.
 * HDPE thin sheet (gallon water/milk jug material) - very durable and flexible, very low friction. This stuff won’t tear easily. Gallon milk or water jugs can be softened in an oven and pressed flat. 
-* Polypropylene or Polyethylene sheet material can also be found and harvested from flexible plastic binders or dividers like these:
-* [https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6](https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6)
+* Polypropylene or Polyethylene sheet material can also be found and harvested from flexible plastic binders or dividers available as office supplies. We are using these: [https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6](https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6)
 * Low surface energy plastics can be difficult to glue or tape together so we recommend “spot welding” them. We do this by pressing a conical soldering iron into and often through the material to melt two pieces together.
 * Many other thin forms of plastic thin sheets are usable but may be harder to find. We do not recommend acrylic/plexiglass.
 * 3D Printable - just about any low friction filament should work fine. Teams that can 3D print may be able to better tune desired flexibility vs. rigidity. 3D printed versions should not have noticeable seams.
@@ -157,11 +156,11 @@ Any day now!
 
 ## <span id="grips">Optional Gripper Notches</span>
 
-We do not prescribe a specific gripper or intake mechanism. But we recognize that controlling a smooth cone may offer numerous challenges and teams need options.
+We do not prescribe a specific gripper, intake or cone mechanism. But we recognize that controlling a smooth cone may be challenging and teams need options.
 
 The first option is to grasp a cone through the hole in the top. All of the variants have open cone tops since there is no benefit to closing it. But we think most teams would prefer to grasp it from the outside.
 
-Consider a minimum viable pincer gripper made out of commonly available REV 15mm extrusions. With such a gripper it would be helpful to have vertical faces or at least edges. The most standard height above the field for such a gripper might be the midline (equator) of a Cargo element which is 36mm to the center:
+We think about a minimum viable pincer gripper made out of commonly available REV 15mm extrusions. With such a gripper it would be helpful to have vertical faces or at least edges. The most standard height above the field for such a gripper might be the midline (equator) of a Cargo element which is 36mm to the center:
 
  
 <p align="center"><img alt="grippable freight" src="images/freightfront.png" title="get a grip"/></p>
@@ -186,7 +185,7 @@ We recommend 4 of [these kinds of 6x2mm neodymium magnets](https://www.amazon.co
 * It’s possible to Place a cone dangling from a single magnet (todo: video)
 * Standardize on placing the North end of the magnet pointing out of the cone (todo: diagram)
 * Stacked cones can lock together
-* If a team makes a mistake in a aligning the magnets, it’s not the end of the world - the cones will rotate to separate repelling magnets as long as there only 4 spaced evenly around the base
+* If a team makes a mistake in a aligning the magnets, it’s not the end of the world - the cones will rotate to separate repelling magnets as long as there are only 4 spaced evenly around the base
 * NEVER place magnets near the tip of the cone - this can foul your partner’s attempts to stack 
 * Place magnets on the inside of the cone and secure them well
 * Magnets can also be added to a storage location on the robot to help secure the FFUTSE during a match
