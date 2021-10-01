@@ -53,7 +53,7 @@ Simple open-top cones in a variety of aspect ratios were tested:
 Taller elements will be more stable on the pole because the center of mass is further below the point of support. But when too tall, the element might illegally rest on a single layer of freight:
 
 <p align="center">
-![Cone resting on Cargo](images/restingOnCargo_s.png "no no no - will invalidate your points and points for any cone resting on top")
+<img width="50%" alt="cone resting on Cargo" src="images/restingOnCargo_s.png" title="Lazy Boy"/>
 </p>
 
 The squat cone combines the maximum allowed bottom opening size with the minimum allowed height and an open top. This was the first paper-based test and it proved to be a good candidate for the final geometry.
