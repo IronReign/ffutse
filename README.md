@@ -79,9 +79,11 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 2. Early Adopters sign on to the Standard before the V1.0 official release. You'll be placed on the Early Adopter tier. 
 3. Share the standard with other teams you are in contact with. Ask them to mention your team as a referral when they sign op. If you get 3 or more teams to adopt the standard your team will be elevated to the Promoters tier. BE the team that hands out free samples of cone material and maybe even magnets at your next scrimmage or meet. You'll gain even more Outreach cred.
 4. Replicate and extend testing, then publish your results tagged as #FFUTSE, then let us know and we’ll help link to your testing. Teams that publically share substantial testing will be recognized on the Certifiers tier.
+
 <p align="center">
 <img width="50%" alt="graphic showing tiers of participation" src="images/FFUTSE_levels.png" title="Level up y'all!!!!!"/>
 </p>
+
 5. If you discover any concerns with the Standard or recommendations for improvement, open an issue here on the repo. 
 6. Share your participation in this project with Judges to get credit for your Outreach.
 7. Just for fun, take a stab at the #FFUTSEDropHeightChallenge. Post a video of your team dropping two FFUTSE cones from your maximum height onto an Alliance Shipping Hub pipe (or analog) into a successfully Capped orientation. The video must be continuous - no editing - and less than 30 seconds. You'll need two cones to show successful stacking. It's cool because you'll want a spare anyhow. PLEASE USE COMMON SENSE AND BE SAFE. NO CRAZY LADDER STUFF.
@@ -101,7 +103,7 @@ The Standard itself is extremely simple and consists **only** of the following:
 * Any variations that nest snuggly either on top of or as a base for the reference geometry cone will be considered compliant.
 * Teams that adopt the standard but choose to create a variant will agree to also create at least one simple standard cone for testing of nesting.
 
-## <span id="resources">Resources</span> 
+## <span id="resources">Resources and Downloads</span> 
 All of the other resources published here are simply **quick-starts for teams**, but they include:
 
 <a href="#flatpat">A reference flat pattern available as PDF, SVG and DWG</a>
@@ -184,7 +186,7 @@ We recommend 4 of [these kinds of 6x2mm neodymium magnets](https://www.amazon.co
 * It’s possible to Place a cone dangling from a single magnet (todo: video)
 * Standardize on placing the North end of the magnet pointing out of the cone (todo: diagram)
 * Stacked cones can lock together
-* If a team makes a mistake in a aligning the magnets, it’s not the end of the world - the cones will rotate to separate repelling magnets
+* If a team makes a mistake in a aligning the magnets, it’s not the end of the world - the cones will rotate to separate repelling magnets as long as there only 4 spaced evenly around the base
 * NEVER place magnets near the tip of the cone - this can foul your partner’s attempts to stack 
 * Place magnets on the inside of the cone and secure them well
 * Magnets can also be added to a storage location on the robot to help secure the FFUTSE during a match
@@ -235,21 +237,13 @@ Completed cone with permanent marker team number:
 
 The following rules are a subset of rules related to this Standard. This is not a complete listing of TSE rules. Refer to the official game manuals.
 
-4.5.4.4 Capping – For each Team Shipping Element that is fully Supported by the center pole above Level #3
-of their Alliance Shipping Hub or by another Capped Team Shipping Element, an Alliance earns fifteen
-(15) points. 
+4.5.4.4 Capping – For each Team Shipping Element that is fully Supported by the center pole above Level #3 of their Alliance Shipping Hub or by another Capped Team Shipping Element, an Alliance earns fifteen (15) points. 
 
-&lt;TE02> GM1 Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4
+&lt;TE02> GM1 Size Constraints - The maximum size of the Team Scoring Element is 4 inches (10.16 cm) by 4 inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring Element is 3 inches (7.62 cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm)
 
-inches (10.16 cm) by 8 inches (20.32 cm). The minimum size of the Team Scoring Element is 3 inches (7.62
+&lt;GS4>c Robots may not Control their opposing Alliance’s Team Shipping Elements. Each violation of this rule results in a Major Penalty. (noted here in case you use a magnetic fishing strategy - be sure to keep your capture magnets away from opposing alliance FFUTSEs that could be knocked across the field)
 
-cm) by 3 inches (7.62 cm) by 4 inches (10.16 cm)
-
-<GS4>c Robots may not Control their opposing Alliance’s Team Shipping Elements. Each violation of this rule
-results in a Major Penalty. (noted here in case you use a magnetic fishing strategy - be sure to keep your capture magnets away from opposing alliance FFUTSEs that could be knocked across the field)
-
-<GS8> Control/Possession Limits of Scoring Elements - Robots may Control or Possess a maximum of
-one (1) Freight and one (1) Team Shipping Element at a time. (you can carry it around during a match)
+&lt;GS8> Control/Possession Limits of Scoring Elements - Robots may Control or Possess a maximum of one (1) Freight and one (1) Team Shipping Element at a time. (you can carry it around during a match)
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
