@@ -3,6 +3,8 @@
 
 An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AVp5U7Hya_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>
 
 ## Standards - It’s not rocket science
@@ -19,6 +21,9 @@ With the **highest goal being easy and stable double stacking** - let’s join t
 
 **Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
 
+<p align="center">
+<img  width="100%" alt="line break" src="images/weakstack.png" title="Wobble Sus"/>
+</p>
 
 ## <span id="designrequirements"> Design Requirements</span>
 
