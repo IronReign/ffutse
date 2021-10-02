@@ -139,7 +139,7 @@ All of the other resources published here are simply **quick-starts for teams**,
 
 ## <span id="flatpat">Release Candidate Simple Flat Pattern</span>
 
-Note: we firt assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
+Note: we first assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
 
 <p align="center"><img width="100%"  alt="photo of flat pattern" src="images/flatPatterns.png" title="Now I lay me down to cut?"/></p>
 
