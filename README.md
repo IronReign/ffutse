@@ -4,25 +4,26 @@
 An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
 
 <p align="center"><a href="https://www.youtube.com/embed/AVp5U7Hya_M"><img width="50%" alt="link to intro video" src="images/RC1videoGrab.PNG" title="click for FFUTSE intro video"/></a></p>
-<!--<p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>-->
+
 
 ## Standards - It’s not rocket science
 
-Many teams will conclude that a cone is the best choice for their team shipping element. But not all cones are equal. It is possible to arrive at a combination of legal designs that are less stable and can be disrupted by shifting/tilting shipping hubs.
+Many teams have settled on a cone as the best choice for their team shipping element. But not all cones are equal. It is possible to arrive at a combination of legal designs that are less stable and can be disrupted by shifting/tilting shipping hubs.
+
+**Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
+<p align="center">
+<img  width="25%" alt="Unstable cone stack" src="images/weakstack.png" title="Wobble Sus"/>
+</p>
+
 
 With the **highest goal being easy and stable double stacking** - let’s join together and adopt a common but flexible design that will increase the chances of success for all participating teams. This is just a standardizing effort like many technical industries adopt when trying to maximize compatibility. It does not prevent teams from also using more unique designs when they are the only team stacking on a given alliance. We are not subverting the Game Design Committee's challenge, but responding to it in a unified and inclusive way. **It is fully in the spirit of [Coopertition](https://www.firstinspires.org/about/vision-and-mission#:~:text=Coopertition%20is%20founded%20on%20the,Coopertition%20involves%20learning%20from%20teammates.&text=Coopertition%20means%20competing%20always%2C%20but,enabling%20others%20when%20you%20can.)**.
 
-
-<p align="center">
-<img  width="50%" alt="Unstable cone stack" src="images/weakstack.png" title="Wobble Sus"/>
-</p>
+<p align="center"><img width="30%" alt="FFUTSE logo" src="images/FFUTSEcertified.png" title="double cap"/></p>
 
 
-**Unstable stack**. Narrow cone on a squat cone. CG is raised. If slick materials are used, the upper cone or entire stack can topple from an aggressively wobbling shipping hub.
 
-<p align="center">
-<img  width="100%" alt="line break" src="images/weakstack.png" title="Wobble Sus"/>
-</p>
+
+
 
 ## <span id="designrequirements"> Design Requirements</span>
 
@@ -68,6 +69,10 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 
 
 ## Testing - We’ve done a good amount of testing - more to come
+
+<p align="center">
+<img  width="100%" alt="line break" src="images/conebreak.png" title="gimme a <br>"/>
+</p>
 
 * Multiple candidate designs were tested against all of the listed <a href="#designrequirements">Design Requirements</a>
 * The squat design works well. It’s got the largest safe opening for sloppy positioning and at just above the minimum height it clears a layer of freight on the top shipping hub level and still has a low enough CG to be very stable. So those the design/dimensions of the release candidate.
