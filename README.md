@@ -144,10 +144,11 @@ Note: we firt assumed an overlap/seam tab on only one side would create a weight
 <p align="center"><img width="100%"  alt="photo of flat pattern" src="images/flatPatterns.png" title="Now I lay me down to cut?"/></p>
 
 ### <a href="resources/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a><br>
-<a href="resources/SVG.zip">Download SVGs</a><br>
-<a href="resources/DWG.zip">Download DWGs</a>
-
-<br>(<a href="#resources">Back to Resources</a>)
+<a href="resources/SVG">Download SVGs</a><br>
+<a href="resources/DWG">Download DWGs</a><br>
+<a href="resources/PNG">Download PNGs</a><br>
+FYI: any <B>IMAGE</B> used <B>MUST</B> be size to a height of 11"
+<br><br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
 ## <span id="threed"> 3D Model Files</span>
@@ -188,8 +189,8 @@ Todo: overlay dimensions on above photo
 
 At that height a 15mm extrusion with foam rubber cushions could grab all three freight elements including Ducks (by the head). It’s also possible to adapt the FFUTSE to be retrievable by such a gripper.
 
-<p align="center"><img alt="gripped cone" src="images/grippedcone.png" title="take me"/></p>
-Todo: photo of modified cone in simple gripper
+<!-- <p align="center"><img alt="gripped cone" src="images/grippedcone.png" title="take me"/></p>
+Todo: photo of modified cone in simple gripper -->
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
