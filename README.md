@@ -3,9 +3,8 @@
 
 An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AVp5U7Hya_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>
+<p align="center"><a href="https://www.youtube.com/embed/AVp5U7Hya_M"><img width="50%" alt="link to intro video" src="images/RC1videoGrab.PNG" title="click for FFUTSE intro video"/></a></p>
+<!--<p align="center"><img alt="Hero render of the FFUTSE reference cone" src="images/glossyGreen.PNG" title="Don't make it glossy if you want to do vision-based detection"/></p>-->
 
 ## Standards - It’s not rocket science
 
