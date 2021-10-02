@@ -143,7 +143,9 @@ Note: we firt assumed an overlap/seam tab on only one side would create a weight
 
 <p align="center"><img width="100%"  alt="photo of flat pattern" src="images/flatPatterns.png" title="Now I lay me down to cut?"/></p>
 
-### <a href="resources/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a>
+### <a href="resources/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a><br>
+<a href="resources/SVG.zip">Download SVGs</a><br>
+<a href="resources/DWG.zip">Download DWGs</a>
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
