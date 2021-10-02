@@ -1,9 +1,14 @@
 
 # Playing #FFUTSE - a Freight Frenzy Universal Team Shipping Element
 
-An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
+An open source Collaborative Team Shipping Element - this is an open specification for a common team shipping element designed to be highly compatible with capping and stacking requirements, maximizing stability with ease of manipulation, placement and construction. We highly encourage all teams to adopt this Standard.
 
 <p align="center"><a href="https://www.youtube.com/embed/AVp5U7Hya_M"><img width="50%" alt="link to intro video" src="images/RC1videoGrab.PNG" title="click for FFUTSE intro video"/></a></p>
+
+## For **tldr** slackers:
+
+<a href="#resources">Skip straight to the Downloads and Resources</a>
+<br><a href="https://forms.gle/p9eFSkRrV8eZk7JB8">Go Sign the Standard</a>
 
 
 ## Standards - It’s not rocket science
@@ -68,7 +73,7 @@ The squat cone combines the maximum allowed bottom opening size with the minimum
 </p>
 
 
-## Testing - We’ve done a good amount of testing - more to come
+## Testing - We’ve done a good amount of testing - Join in!
 
 <p align="center">
 <img  width="100%" alt="line break" src="images/conebreak.png" title="gimme a <br>"/>
@@ -136,7 +141,7 @@ All of the other resources published here are simply **quick-starts for teams**,
 
 Note: we firt assumed an overlap/seam tab on only one side would create a weight imbalance, so we should create two identical half patterns. But it turned out that this weight imbalance was negligible for the materials tested and didn’t seem to make a difference in handling. So we settled on a simpler single-seam pattern.
 
-<p align="center"><img width="50%"  alt="photo of flat pattern" src="images/FFUTSE_Flat_Pattern_RC1_s.png" title="Now I lay me down to cut?"/></p>
+<p align="center"><img width="100%"  alt="photo of flat pattern" src="images/flatPatterns.png" title="Now I lay me down to cut?"/></p>
 
 ### <a href="resources/FFUTSE_Flat_Pattern_RC1.pdf">Download the PDF</a>
 
