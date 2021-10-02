@@ -147,7 +147,7 @@ Note: we firt assumed an overlap/seam tab on only one side would create a weight
 <a href="resources/SVG">Download SVGs</a><br>
 <a href="resources/DWG">Download DWGs</a><br>
 <a href="resources/PNG">Download PNGs</a><br>
-FYI: any <B>IMAGE</B> used <B>MUST</B> be size to a height of 11"
+FYI: any <B>IMAGE</B> used <B>MUST</B> be sized to a height of 11" to fit the standard!
 <br><br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
