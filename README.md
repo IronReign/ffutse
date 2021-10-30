@@ -163,7 +163,7 @@ FYI: any <B>IMAGE</B> used <B>MUST</B> be scaled to a width of 6.5" while preser
 
 ## <span id="materials">Material Options</span>	
 
-* Paper: way too delicate - only for prototyping
+* Paper: great for quick geometry validation. Print the PDF reference flat pattern at 100% scale in landscape mode, cut it out and assemble. This makes a good nesting cone to be sure your competion cone is the right size and shape. Paper won't be durable enough to compete with.
 * Card Stock (file folders) - cheap, easy to get, semi-durable - would recommend bringing spares to tournaments. Easy to tape or glue together.
 * HDPE thin sheet (gallon water/milk jug material) - very durable and flexible, very low friction. This stuff won’t tear easily. Gallon milk or water jugs can be softened in an oven and pressed flat. 
 * Polypropylene or Polyethylene sheet material can also be found and harvested from flexible plastic binders or dividers available as office supplies. We are using these: [https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6](https://www.amazon.com/AmazonBasics-Tab-Dividers-Pack-Sets/dp/B07K8ZNKZ6)
