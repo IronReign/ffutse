@@ -148,7 +148,7 @@ Note: we first assumed an overlap/seam tab on only one side would create a weigh
 <a href="resources/PNG">Download PNGs</a><br>
 <a href="resources/SVG">Download SVGs</a><br>
 <a href="resources/DWG">Download DWGs</a><br>
-FYI: any <B>IMAGE</B> used <B>MUST</B> be sized to a height of 11" to fit the standard!
+FYI: any <B>IMAGE</B> used <B>MUST</B> be scaled to a width of 6.5" while preserving the aspect ratio to fit the standard! If using a cutter of some sort, scale first and then rotate the design for best fit to the material you are cutting.
 <br><br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
 
@@ -248,6 +248,8 @@ Completed cone with permanent marker team number:
 <br>(<a href="#">Back to top</a>)
 
 ## <span id="threednotes">3D Printable Version Notes</span>
+
+The 3D reference model was constructed with a significant 2mm wall width to make it independent of the nozzle width of various printers. But a normal print of that cone will be significantly heavier than it needs to be and overly rigid. In our testing we've found that we can get a lighter yet still durable cone by printing in nylon using vase mode. In Cura this would be called spiralize under special modes. This results in a single nozzle width perimeter that spirals up with a less visible seam. In nylon it is very tough and compliant. It is possible to do this with other materials like PETG or ABS. We would like to hear results from teams experimenting with normal PLA. We wouldn't necessarily recommend TPU since it can have a higher friction when partner cones are trying to slide over it. TPU might also not provide enough resistance to compression so it can be lifted by grippers reliably. Again we welcome feedback from teams experimenting with these materials. Submit feedback as github issues.
 
 <br>(<a href="#resources">Back to Resources</a>)
 <br>(<a href="#">Back to top</a>)
