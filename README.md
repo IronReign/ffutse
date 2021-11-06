@@ -8,10 +8,10 @@ An open source Collaborative Team Shipping Element - this is an open specificati
 ## For **tldr** slackers:
 
 <a href="#resources">Skip straight to the Downloads and Resources</a>
-<br><a href="https://forms.gle/p9eFSkRrV8eZk7JB8">Go Sign the Standard</a>
+<br><a href="https://forms.gle/CQyzkg4Liegf45pu5">Go Sign the Standard</a>
 
 
-## Standards - It’s not rocket science
+## Standards - It’s not rocket science!
 
 Many teams have settled on a cone as the best choice for their team shipping element. But not all cones are equal. It is possible to arrive at a combination of legal designs that are less stable and can be disrupted by shifting/tilting shipping hubs.
 
